@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://tama-teame-metamask.github.io/MetaMakSite/">
+  <a href="https://arshiafarrokhi.github.io/MetaMaskSite/">
     <img src="assets\images\MetaMask_Fox.svg.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,11 +10,11 @@
     You can get more information from my personal website
     <br/>
     <br/>
-    <a href="https://tama-teame-metamask.github.io/MetaMakSite/">View Demo</a>
+    <a href="https://arshiafarrokhi.github.io/MetaMaskSite/">View Demo</a>
     .
-    <a href="https://tama-teame-metamask.github.io/MetaMakSite/issues">Report Bug</a>
+    <a href="https://arshiafarrokhi.github.io/MetaMaskSite/issues">Report Bug</a>
     .
-    <a href="https://tama-teame-metamask.github.io/MetaMakSite/issues">Request Feature</a>
+    <a href="https://arshiafarrokhi.github.io/MetaMaskSite/issues">Request Feature</a>
   </p>
 </p>
 
